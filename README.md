@@ -7,7 +7,7 @@
 This Section of the Data Science Career Path covered some Python Basics :
 + Lists
   - list comprehension
-  - methods such as:
+  - methods & functions such as:
     + append()
     + pop()
     + insert()
@@ -15,7 +15,7 @@ This Section of the Data Science Career Path covered some Python Basics :
     + zip()
   - control flow
   - if and while loops
-  - creating functions, and commonly used functions
+  - defining functions
 
 
 For this project I used a jupyter notebook to follow along with the prompts.
